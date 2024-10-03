@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Cool GIF](https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif)
+![My Cool GIF](https://i.redd.it/q0dd3k02unqb1.gif)

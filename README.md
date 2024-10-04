@@ -1,18 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/53/4e/f3/534ef3554088173d553f4c5a1535a1f6.gif" style="width: 100%; ; height: auto; object-fit: cover;" />
+</p>
 
-<!--
-**WolfverusWasTaken/WolfverusWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi there! I'm Alexi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a student at Singapore Institute of Technology, pursuing a BSc(Hons) in Applied Artificial Intelligence. I have a deep interest in the field of AI and Deep Learning.
 
-![My Cool GIF](https://i.redd.it/q0dd3k02unqb1.gif)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=60% height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=WolfverusWasTaken&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=35% align="right" src="https://trancentral.tv/wp-content/uploads/2016/05/10_void_animated.gif" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=35% height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WolfverusWasTaken&layout=compact&langs_count=5&theme=radical&card_width=200" />
+</a>
+
+
+

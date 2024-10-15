@@ -7,9 +7,7 @@
 
 Welcome to my GitHub profile! I'm a student at Singapore Institute of Technology, pursuing a BSc(Hons) in Applied Artificial Intelligence. I have a deep interest in the field of AI and Deep Learning.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=60% height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=WolfverusWasTaken&show_icons=true&theme=radical" />
-</a>
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img width=35% align="right" src="https://trancentral.tv/wp-content/uploads/2016/05/10_void_animated.gif" />

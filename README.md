@@ -14,10 +14,10 @@ This profile is where I share projects and experiments that reflect both what I'
 
 I also co-lead my school's drone team, where I am in charge of perception and controls.
 
-### Past Experience
+### Experience
 
 - Currently at <img src="./icons/astar.jpg" alt="A*STAR" height="18" valign="middle" /> A*STAR
-- Previously at <img src="./icons/SiT.png" alt="SIT" height="18" valign="middle" /> x <img src="./icons/nvidia.jpg" alt="NVIDIA" height="18" valign="middle" /> AI Center, <img src="./icons/cynapse.jpg" alt="Cynapse.ai" height="18" valign="middle" /> Cynapse.ai
+- Previously at <img src="./icons/SiT.png" alt="SIT" height="18" valign="middle" /> <img src="./icons/nvidia.jpg" alt="NVIDIA" height="18" valign="middle" /> SIT x NVIDIA AI Center, <img src="./icons/cynapse.jpg" alt="Cynapse.ai" height="18" valign="middle" /> Cynapse.ai
 
 ## Current Focus
 
